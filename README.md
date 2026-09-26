@@ -30,6 +30,6 @@ These projects document design choices, verification, and areas for further work
 
 ## Let's connect
 
-I'm seeking **Summer 2027 software engineering internships**, with a preference for remote roles. I'm especially interested in backend development, applied AI, and software that solves practical problems.
+I'm seeking **Summer 2027 software engineering internships**. I'm especially interested in backend development, applied AI, and software that solves practical problems.
 
 [LinkedIn](https://www.linkedin.com/in/kyle-m-mitchell/) · [Email](mailto:kylemitchell4832@gmail.com)
