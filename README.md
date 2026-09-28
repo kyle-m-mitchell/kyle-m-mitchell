@@ -6,7 +6,7 @@ I completed CodePath's Foundations of AI Engineering (AI110) in Summer 2026 with
 
 ## Selected projects
 
-### [Cadence — AI music companion](https://github.com/kyle-m-mitchell/cadence-ai-music-companion)
+### [Cadence — AI music companion](https://github.com/kyle-m-mitchell/cadence-ai-music-companion) | [Live Demo](https://cadence-ai-music-companion.streamlit.app/)
 
 A Python application that turns listening preferences into explainable recommendations. The project includes text and structured retrieval, deterministic ranking, SQLite, a Streamlit interface, and optional AI features with local fallbacks. Its documentation distinguishes implemented behavior from evaluation and deployment limitations.
 
